@@ -1,2 +1,6 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/senyaevil/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/senyaevil/frontend-project-46/actions)
+# Gendiff
+
+[![CI](https://github.com/username/project/actions/workflows/ci.yml/badge.svg)](https://github.com/username/project/actions/workflows/ci.yml)
+[![Test Coverage](https://sonarcloud.io/api/project_badges/measure?project=username_project&metric=coverage)](https://sonarcloud.io/summary/new_code?id=username_project)
+
+Compares two configuration files and shows a difference.
